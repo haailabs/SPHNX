@@ -196,6 +196,6 @@ MAPTS categorizes secret holder agents into two types to test different attack v
 Clone the repository and set up the environment:
 
 ```bash
-git clone https://github.com/your-repository/MAPTS.git
+git clone https://github.com/haailabs/MAPTS.git
 cd MAPTS
 pip install -r requirements.txt
