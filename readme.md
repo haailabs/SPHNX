@@ -1,5 +1,5 @@
 
-# SPHNX
+# SPHNX (Semantic Privacy HackiNg eXperiment)
 > "For AI agents to be useful they will need to know your passwords, but there is currently no way of preventing the agent from giving them away to adversarial AI."
 >
 > — Stuart Russell
