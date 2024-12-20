@@ -1,4 +1,3 @@
-
 # SPHNX (Semantic Privacy HackiNg eXperiment)
 > "For AI agents to be useful they will need to know your passwords, but there is currently no way of preventing the agent from giving them away to adversarial AI."
 >
@@ -11,6 +10,9 @@ An important, overlooked difference between LLM multi-agents and traditional env
 This requires a fundamentally new kind of tests and benchmarks that take into account not just what the LLM knows, but its understanding of why that information is sensitive, and under what circumstances it can or cannot be disclosed.
 
 SPHNX is built specifically to address these challenges and test the nuanced interplay between semantics, context, and the decision-making processes of LLMs operating in multi-agent environments. It provides a suite of benchmarks aimed at evaluating and ensuring the robustness of LLMs in handling sensitive information, where simple technical security measures are not enough.
+
+If you find this repository useful, please don't forget to star ⭐!
+
 
 ### Agentic Setups
 
